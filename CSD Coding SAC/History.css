@@ -1,0 +1,72 @@
+body {
+font-family: "Times New Roman";
+font-size: 18px;
+margin: 0px;
+padding: 0px;
+text-align: left;
+}
+
+.Logo {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  /* z-index: -1; */
+  Width: 305px;
+  height: 190px;
+  /* W: 305   H: 190 */
+}
+
+
+h1 {
+  position: relative;
+  top: -65px;
+  left: 300px;
+  font-style: italic;
+  text-align: center;
+  font-size: 40px;
+  color: #004E69;
+  display: inline-block;
+  /* z-index: -1; */
+}
+
+h2 {
+  color: #004E69;
+  font-style: italic;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #EEB61D;
+  font-style: italic;
+}
+
+p {
+  color: #004E69;
+
+}
+
+div {
+  /* margin: auto; */
+  /* padding: auto; */
+  /* width: 100%; */
+  content-align: center;
+  position: relative;
+  top: 0px;
+  left: 150px;
+  display: inline-block;
+}
+
+img {
+  margin: auto;
+  padding: auto;
+
+}
+
+#HWC {
+  content-align: center;
+  position: relative;
+  top: 0px;
+  left: 320px;
+  display: inline-block;
+}
